@@ -40,7 +40,6 @@
  * *        -select a random food from the array
  * *        -use dom manipulation to create and add an li tag to the ul tag
  * *        -make the text of the li tag the following format "is _foodName_ sweet? _isSweet_.  I'll have _servingNum_"
- * *      -how many you eat at a time(number)
  */
 let foods = [
     {name: "balut", isSweet: false, howManyToEat: 2},
